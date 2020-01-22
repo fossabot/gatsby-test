@@ -1,6 +1,8 @@
 **Note:** Gatsby v2 beta support is here! Check out the [gatsby-v2 branch](https://github.com/AustinGreen/gatsby-starter-netlify-cms/tree/gatsby-v2) to start using it now.
 
 # Gatsby + Netlify CMS Starter
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbriandennis%2Fgatsby-test.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbriandennis%2Fgatsby-test?ref=badge_shield)
+
 
 This repo contains an example business website that is built with [Gatsby](https://www.gatsbyjs.org/), and [Netlify CMS](https://www.netlifycms.org): **[Demo Link](https://gatsby-netlify-cms.netlify.com/)**.
 
@@ -52,3 +54,7 @@ npm install --global --production windows-build-tools
 ```
 
 [Full details here](https://www.npmjs.com/package/node-gyp 'NPM node-gyp page')
+
+
+## License
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fbriandennis%2Fgatsby-test.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fbriandennis%2Fgatsby-test?ref=badge_large)
